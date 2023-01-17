@@ -1,2 +1,0 @@
-# Write a python script which will take the year of birth of a person and output the possible age of the person. 
-If the input is not a valid year, then it will output “INVALID INPUT”
