@@ -1,0 +1,19 @@
+## Topic: Branching
+    1) Write a python script which will take the year of birth of a person and output the possible age of the person.
+       If the input is not a valid year, then it will output “INVALID INPUT”
+    2) Write a python script which will take two numbers as inputs. If both the numbers are even, then it will output “EVEN!!!”,
+       if both the numbers are odd, it will output “You are weird”.If one number is even and one number is odd, then it will output “I expected better from you”.
+       If the inputs are not valid number, then it will output “INVALID INPUT”
+    3) Write a python script which will take the year of birth of a person and output “YAY!!!” if the person was born in a leap year or “Better luck next time :3” 
+       if the person was not born on a leap year. If the input is not a valid year, then it will output “INVALID INPUT”
+    4) Write a python script which will take two numbers as inputs. If the first number is smaller than the second number, then it will output “You get it!!”. 
+       If the second number is smaller than the first number, it will output “You are weird”. If both numbers are the same, then it will output “I expected better from you”. If the inputs are not valid number, then it will output “INVALID INPUT”
+  Topic: Iterations
+  1) Write a python script which will take one number as input and multiply 10 with it. As long as the user does not enter a valid number, the program will keep prompting the user to enter a number.
+  2) Write a python script which takes one number as an input and outputs a pyramid taking the number as the height. If the input is invalid, it prints an upside down pyramid of height 5.
+  3) Write a python script which will take one input. As long as the entered value is not “I am a password”, the script will prompt the user to enter the input again. If the input matches, the script will print “You are in!”
+  4) Write a python script which takes one number as an input and outputs an “X” taking the number as the height. If the input is invalid, it prints a square of height 5. All even numbers are invalid inputs as well.
+  
+  
+## Topic: String
+  1)
