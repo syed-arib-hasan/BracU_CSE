@@ -1,2 +1,0 @@
-print("arib")
-print("pp")
