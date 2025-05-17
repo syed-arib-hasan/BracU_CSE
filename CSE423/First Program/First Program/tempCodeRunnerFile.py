@@ -1,1 +1,0 @@
-W_Width, W_Height = 500,500  
